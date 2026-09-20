@@ -63,6 +63,7 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 **Defensiva**
 <br>
 <img src="https://img.shields.io/badge/-Wazuh-005571?style=flat-square" />
+<img src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
 <img src="https://img.shields.io/badge/-SIEM_/_SOC-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-Honeypots-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-OSINT-333333?style=flat-square" />
