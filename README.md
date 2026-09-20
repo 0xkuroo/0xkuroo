@@ -1,8 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Hi!%20I'm%20kuro%20:p%20🦇&fontSize=50&fontColor=ff0000&animation=twinkling&fontAlignY=35&desc=Offensive%20Security%20·%20Networking%20%26%20Infrastructure&descSize=18&descAlignY=55" width="100%"/>
+# Hi! I'm kuro :p 🦇
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=%3E+Initializing+neural_net...;%3E+Loading+exploit_modules...;%3E+Connecting+to+mainframe...;%3E+ACCESS+GRANTED+✓" alt="Typing SVG" />
+```
+    ██╗  ██╗██╗   ██╗██████╗  ██████╗ 
+    ██║ ██╔╝██║   ██║██╔══██╗██╔═══██╗
+    █████╔╝ ██║   ██║██████╔╝██║   ██║
+    ██╔═██╗ ██║   ██║██╔══██╗██║   ██║
+    ██║  ██╗╚██████╔╝██║  ██║╚██████╔╝
+    ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
+                                      
+[████████████████████████████████] 100%
+> Initializing neural_net...
+> Loading exploit_modules...
+> Connecting to mainframe...
+> ACCESS GRANTED ✓
+```
+
+### Offensive Security · Networking & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Ubicación-Santiago,_Chile-informational" />
