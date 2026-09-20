@@ -1,11 +1,26 @@
-<h1 align="center">Hi! I'm kuro :p 🦇</h1>
-<h3 align="center">Offensive Security · Networking & Infrastructure</h3>
+<div align="center">
 
-<p align="center">
+```
+█▀▄▀█ ▄▀█ ▀█▀ █▀█ █ ▀▄▀   █▀█ ▄▀█ █ █▄░█
+█░▀░█ █▀█ ░█░ █▀▄ █ █░█   █▀▄ █▀█ █ █░▀█
+
+[████████████████████████████████] 100%
+> Initializing neural_net...
+> Loading exploit_modules...
+> Connecting to mainframe...
+> ACCESS GRANTED
+```
+
+<h1>Hi! I'm kuro :p 🦇</h1>
+<h3>Offensive Security · Networking & Infrastructure</h3>
+
+<p>
   <img src="https://img.shields.io/badge/Ubicación-Santiago,_Chile-informational" />
   <img src="https://img.shields.io/badge/Enfoque-Ciberseguridad_Ofensiva-critical" />
   <img src="https://img.shields.io/badge/Certificación_en_curso-eJPT-blueviolet" />
 </p>
+
+</div>
 
 ---
 
@@ -38,6 +53,7 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" />
 <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square" />
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-BlackArch-000000?style=flat-square&logo=archlinux&logoColor=white" />
 
 **Defensiva**
 <br>
@@ -71,9 +87,10 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 ### 📜 Certificaciones
 
 - **eJPT** — Junior Penetration Tester, INE Security *(en proceso)*
-- **CSFPC** — Cyber Security Foundation Professional Certificate, CertiProf
+- **CertiProf CEHPC™** — Ethical Hacking Professional (02 Sep 2026 - 01 Sep 2029)
+- **Elastic Security for SIEM** — Elastic Certifications *(curso completado)*
+- **CertiProf CSFPC™** — Cyber Security Foundation Professional (Jul 2026 - Jul 2029)
 - **Cisco NetAcad Ethical Hacker** — Cisco Networking Academy
-- *entre otras*
 <a href="https://www.credly.com/users/eloy-balcazar"><img src="https://img.shields.io/badge/-Credly-0077B5?style=flat-square&logo=credly&logoColor=white" /></a> 
 
 ---
