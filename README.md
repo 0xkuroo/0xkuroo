@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=0xkuro%20🦇&fontSize=50&fontColor=ff0000&animation=twinkling&fontAlignY=35&desc=Offensive%20Security%20·%20Networking%20%26%20Infrastructure&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Hi!%20I'm%20kuro%20:p%20🦇&fontSize=50&fontColor=ff0000&animation=twinkling&fontAlignY=35&desc=Offensive%20Security%20·%20Networking%20%26%20Infrastructure&descSize=18&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Initializing+neural_net...;%3E+Loading+exploit_modules...;%3E+Connecting+to+mainframe...;%3E+ACCESS+GRANTED+✓" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=600&height=80&lines=%3E+Initializing+neural_net...;%3E+Loading+exploit_modules...;%3E+Connecting+to+mainframe...;%3E+ACCESS+GRANTED+✓" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Ubicación-Santiago,_Chile-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enfoque-Ciberseguridad_Ofensiva-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Certificación_en_curso-eJPT-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ubicación-Santiago,_Chile-informational" />
+  <img src="https://img.shields.io/badge/Enfoque-Ciberseguridad_Ofensiva-critical" />
+  <img src="https://img.shields.io/badge/Certificación_en_curso-eJPT-blueviolet" />
 </p>
 
 </div>
