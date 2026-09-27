@@ -60,19 +60,25 @@ Currently wrapping up my internship as a Tier 1 SOC Analyst, which gave me a sol
 ### 🛠️ Tech Stack & Tooling
 
 **Offensive Security & Pentesting**
-<br>                                            
-<img src="https://img.shields.io/badge/-Nmap-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square" />
-<img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" />
-<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square" />
+<br>
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/-BlackArch-000000?style=flat-square&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square" />
+<img src="https://img.shields.io/badge/-Caido-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" />
+<img src="https://img.shields.io/badge/-SQLmap-CC0000?style=flat-square" />
+<img src="https://img.shields.io/badge/-FFUF-24292E?style=flat-square" />
+<img src="https://img.shields.io/badge/-Gobuster-00599C?style=flat-square" />
+<img src="https://img.shields.io/badge/-Wfuzz-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-WhatWeb-555555?style=flat-square" />
 
 **Defensive & SOC Operations**
 <br>
 <img src="https://img.shields.io/badge/-Wazuh-005571?style=flat-square" />
 <img src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
 <img src="https://img.shields.io/badge/-SIEM_/_SOC-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Honeypots-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-OSINT-333333?style=flat-square" />
 
@@ -95,6 +101,7 @@ Currently wrapping up my internship as a Tier 1 SOC Analyst, which gave me a sol
 <br>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+
 
 ---
 
