@@ -115,7 +115,7 @@ Currently wrapping up my internship as a Tier 1 SOC Analyst, which gave me a sol
 
 **Coursework & Practical Training**
 - 💀 **Introduction to Hacking Path** — *Hack4u (In Progress)*
-- 🐧 **Linux Fundamentals & Administration** — *Hack4u (Completed)*
+- 🐧 **Introduction to Linux** — *Hack4u (Completed)*
 - 📊 **Elastic Security for SIEM** — *Elastic Certifications (Completed)*
 
 <a href="https://www.credly.com/users/eloy-balcazar" target="_blank">
