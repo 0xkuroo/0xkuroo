@@ -105,13 +105,18 @@ Currently wrapping up my internship as a Tier 1 SOC Analyst, which gave me a sol
 
 ---
 
-### 📜 Certifications & Highlights
+### 📜 Certifications & Specialized Training
 
-- **eJPT** — Junior Penetration Tester, INE Security *(In Progress)*
-- **CertiProf CEHPC™** — Ethical Hacking Professional
-- **Elastic Security for SIEM** — Elastic Certifications
-- **CertiProf CSFPC™** — Cyber Security Foundation Professional
-- **Cisco NetAcad Ethical Hacker** — Cisco Networking Academy
+**Certifications & Accreditations**
+- 🎯 **eJPT** — Junior Penetration Tester, *INE Security (In Progress)*
+- 🛡️ **CertiProf CEHPC™** — Ethical Hacking Professional Certificate
+- 🔐 **CertiProf CSFPC™** — Cyber Security Foundation Professional Certificate
+- 🌐 **Cisco NetAcad Ethical Hacker / CyberOps Associate** — *Cisco Networking Academy*
+
+**Coursework & Practical Training**
+- 💀 **Introduction to Hacking Path** — *Hack4u (In Progress)*
+- 🐧 **Linux Fundamentals & Administration** — *Hack4u (Completed)*
+- 📊 **Elastic Security for SIEM** — *Elastic Certifications (Completed)*
 
 <a href="https://www.credly.com/users/eloy-balcazar" target="_blank">
   <img src="https://img.shields.io/badge/Credly-View_All_My_Badges-0077B5?style=flat-square&logo=credly&logoColor=white" />
