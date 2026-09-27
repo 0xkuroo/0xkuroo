@@ -31,7 +31,7 @@
 
 ### 🔎 Sobre mí
 
-**Administrador de Redes y Telecomunicaciones**, actualmente cursando **Ingeniería en Conectividad y Redes**.
+**Cybersecurity Analyst | Aspiring Pentester & Ethical Hacker | eJPT (in progress) | Blue & Red Team | Administrator on Networks and Telecom**
 
 Combino una base sólida en redes y sistemas con capacidades ofensivas: desarrollo herramientas propias de auditoría y he implementado un SOC con Wazuh, entre otros proyectos.
 
