@@ -20,9 +20,9 @@
 ### Offensive Security · Networking & Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/Ubicación-Santiago,_Chile-informational" />
-  <img src="https://img.shields.io/badge/Enfoque-Ciberseguridad_Ofensiva-critical" />
-  <img src="https://img.shields.io/badge/Certificación_en_curso-eJPT-blueviolet" />
+    <img src="https://img.shields.io/badge/Location-Santiago,_Chile-informational" />
+    <img src="https://img.shields.io/badge/Focus-Offensive_Security-critical" />
+    <img src="https://img.shields.io/badge/Certification-eJPT_(In_Progress)-blueviolet" />          
 </p>
 
 </div>
