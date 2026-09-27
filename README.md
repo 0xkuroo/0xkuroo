@@ -29,29 +29,30 @@
 
 ---
 
-### 🔎 Sobre mí
+### ☕ About Me  
 
 **Cybersecurity Analyst | Aspiring Pentester & Ethical Hacker | eJPT (in progress) | Blue & Red Team | Administrator on Networks and Telecom**
+Hey there! I'm a cybersecurity passionate and network admin based in Santiago, Chile. 
 
-Combino una base sólida en redes y sistemas con capacidades ofensivas: desarrollo herramientas propias de auditoría y he implementado un SOC con Wazuh, entre otros proyectos.
+I love breaking things (ethically, of course) to understand how to fix and defend them better.
+Currently wrapping up my internship as a Tier 1 SOC Analyst, which gave me a solid defensive perspective before diving deep into the offensive realm.
 
-Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pentesting de infraestructura, explotación de servicios y pivoting. En paralelo, desarrollando capacidades en **Web Security** orientadas a Bug Bounty.
-
----
-
-### 🚀 En qué estoy trabajando
-
-- **Vultracer** — Proyecto de ciberseguridad ofensiva co-fundado junto a dos compañeros, orientado a auditorías de infraestructura para empresas PYME. Actualmente en etapa de desarrollo de metodología y stack técnico, previo a su constitución formal.
-  - **Vultracer Phantom**: framework de auditoría en Python con módulos de descubrimiento de hosts, escaneo de puertos, fingerprinting de servicios e inteligencia OSINT.
-  - **Web Vultracer**: desarrollo del sitioweb de Vultracer, potenciando el SEO, incluyendo blogs para la comunidad y mejorar el posicionamiento.
-- **SOC Híbrido**: arquitectura conectando infraestructura local con AWS VPC, con Wazuh como SOC centralizado, integración a Slack, honeypots, VPN ZeroTier y telefonía IP corporativa (Asterisk/FreePBX). Simulación de topologías empresariales Cisco con VLANs, OSPF, EIGRP, BGP y hardening de switches y firewalls.
-- Preparación activa para la certificación **eJPT**.
 
 ---
 
-### 🛠️ Stack técnico
+### 🌐 What's I was work on
 
-**Ofensiva**
+- **Vultracer** — Co-founded an enterprise focused on networks design and administration, cloud services and pentesting for PYMEs (Small and Medium Enterprise)
+  - **Vultracer Phantom**: Custom Python auditing framework featuring host discovery, port scanning, service fingerprinting, and automated OSINT intel gathering.
+  - **Web Vultracer**: Building our official website, creating cybersecurity blog posts for the community, and optimizing SEO.
+- **Hybrid SOC Lab**: Enterprise-like infrastructure bridging on-premise networks with AWS VPC, powered by a centralized Wazuh SOC, Slack alerting, honeypots, ZeroTier VPN, and VoIP (Asterisk/FreePBX).
+- **Network Topologies**: Simulating corporate Cisco environments with VLANs, OSPF, EIGRP, BGP, and firewall/switch hardening.
+
+---
+
+### 🛠️ Tech Stack & Tooling     
+
+**Offensive Security & Pentesting**
 <br>
 <img src="https://img.shields.io/badge/-Nmap-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square" />
@@ -60,7 +61,7 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/-BlackArch-000000?style=flat-square&logo=archlinux&logoColor=white" />
 
-**Defensiva**
+**Defensive & SOC Operations**
 <br>
 <img src="https://img.shields.io/badge/-Wazuh-005571?style=flat-square" />
 <img src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
@@ -68,13 +69,13 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 <img src="https://img.shields.io/badge/-Honeypots-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/-OSINT-333333?style=flat-square" />
 
-**Redes**
+**Networking & Infrastructure**
 <br>
 <img src="https://img.shields.io/badge/-Cisco_Routing_&_Switching-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-VLAN_/_OSPF_/_EIGRP_/_BGP-1BA0D7?style=flat-square" />
 <img src="https://img.shields.io/badge/-ZeroTier_VPN-333333?style=flat-square" />
 
-**Sistemas y Cloud**
+**Systems, Cloud & Virtualization**
 <br>
 <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
@@ -83,25 +84,25 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
 
-**Programación**
+**Scripting & Development**
 <br>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 
 ---
 
-### 📜 Certificaciones
+### 📜 Certifications & Highlights
 
 - **eJPT** — Junior Penetration Tester, INE Security *(en proceso)*
 - **CertiProf CEHPC™** — Ethical Hacking Professional (02 Sep 2026 - 01 Sep 2029)
 - **Elastic Security for SIEM** — Elastic Certifications *(curso completado)*
 - **CertiProf CSFPC™** — Cyber Security Foundation Professional (Jul 2026 - Jul 2029)
 - **Cisco NetAcad Ethical Hacker** — Cisco Networking Academy
-<a href="https://www.credly.com/users/eloy-balcazar"><img src="https://img.shields.io/badge/-Credly-0077B5?style=flat-square&logo=credly&logoColor=white" /></a> 
+Credly Badge <a href="https://www.credly.com/users/eloy-balcazar"><img src="https://img.shields.io/badge/-Credly-0077B5?style=flat-square&logo=credly&logoColor=white" /></a> 
 
 ---
 
-### 📫 Contacto
+### 📫 Connect with Me
 
 <p align="left">
   <a href="mailto:e.balcazar2004@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
