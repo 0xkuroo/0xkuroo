@@ -32,6 +32,7 @@
 ### ☕ About Me  
 
 **Cybersecurity Analyst | Aspiring Pentester & Ethical Hacker | eJPT (in progress) | Blue & Red Team | Administrator on Networks and Telecom**
+
 Hey there! I'm a cybersecurity passionate and network admin based in Santiago, Chile. 
 
 I love breaking things (ethically, of course) to understand how to fix and defend them better.
@@ -39,10 +40,16 @@ Currently wrapping up my internship as a Tier 1 SOC Analyst, which gave me a sol
 
 
 ---
+### 🎯 Current Focus
 
-### 🌐 What's I was work on
+- 💀 **Hands-on Offensive Training**: Actively completing Hack4u's *Introduction to Hacking* path, solving lab environments, and practicing methodology on **Hack The Box** & **TryHackMe**.
+- 📜 **eJPT Preparation**: Grinding network reconnaissance, service exploitation, privilege escalation, and pivoting for the upcoming INE Security exam.
 
-- **Vultracer** — Co-founded an enterprise focused on networks design and administration, cloud services and pentesting for PYMEs (Small and Medium Enterprise)
+---
+
+### 🌐 Projects & Initiatives
+
+- **Vultracer (Early-stage initiative)** — Co-founded a cybersecurity and infrastructure initiative focused on network design, cloud architecture, and offensive security assessments (pentesting) for SMBs (Small and Medium-sized Businesses).
   - **Vultracer Phantom**: Custom Python auditing framework featuring host discovery, port scanning, service fingerprinting, and automated OSINT intel gathering.
   - **Web Vultracer**: Building our official website, creating cybersecurity blog posts for the community, and optimizing SEO.
 - **Hybrid SOC Lab**: Enterprise-like infrastructure bridging on-premise networks with AWS VPC, powered by a centralized Wazuh SOC, Slack alerting, honeypots, ZeroTier VPN, and VoIP (Asterisk/FreePBX).
@@ -50,18 +57,18 @@ Currently wrapping up my internship as a Tier 1 SOC Analyst, which gave me a sol
 
 ---
 
-### 🛠️ Tech Stack & Tooling     
+### 🛠️ Tech Stack & Tooling
 
-**Offensive Security & Pentesting**
-<br>
+**Offensive Security & Pentesting**                                               
+<br>                                            
 <img src="https://img.shields.io/badge/-Nmap-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square" />
 <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" />
-<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square" />
-<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/-BlackArch-000000?style=flat-square&logo=archlinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square" />                                             
+<img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />                                           
+<img src="https://img.shields.io/badge/-BlackArch-000000?style=flat-square&logo=archlinux&logoColor=white" /> 
 
-**Defensive & SOC Operations**
+**Defensive & SOC Operations**                       
 <br>
 <img src="https://img.shields.io/badge/-Wazuh-005571?style=flat-square" />
 <img src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
@@ -93,12 +100,15 @@ Currently wrapping up my internship as a Tier 1 SOC Analyst, which gave me a sol
 
 ### 📜 Certifications & Highlights
 
-- **eJPT** — Junior Penetration Tester, INE Security *(en proceso)*
-- **CertiProf CEHPC™** — Ethical Hacking Professional (02 Sep 2026 - 01 Sep 2029)
-- **Elastic Security for SIEM** — Elastic Certifications *(curso completado)*
-- **CertiProf CSFPC™** — Cyber Security Foundation Professional (Jul 2026 - Jul 2029)
+- **eJPT** — Junior Penetration Tester, INE Security *(In Progress)*
+- **CertiProf CEHPC™** — Ethical Hacking Professional
+- **Elastic Security for SIEM** — Elastic Certifications
+- **CertiProf CSFPC™** — Cyber Security Foundation Professional
 - **Cisco NetAcad Ethical Hacker** — Cisco Networking Academy
-Credly Badge <a href="https://www.credly.com/users/eloy-balcazar"><img src="https://img.shields.io/badge/-Credly-0077B5?style=flat-square&logo=credly&logoColor=white" /></a> 
+
+<a href="https://www.credly.com/users/eloy-balcazar" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-View_All_My_Badges-0077B5?style=flat-square&logo=credly&logoColor=white" />
+</a>
 
 ---
 
